@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/RosaGao/bmi-app/issues"
   },
-  "homepage": "https://github.com/RosaGao/bmi-app#readme"
+  "homepage": "https://github.com/RosaGao/bmi-app#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
 }
